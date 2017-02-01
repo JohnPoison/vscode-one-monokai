@@ -551,6 +551,17 @@
 				<string>#97C8F0</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Enum member</string>
+			<key>scope</key>
+			<string>entity.name.variable.enum-member</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c678dd</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>168dd8b0-38fa-4acc-b95f-c524578b72d3</string>
