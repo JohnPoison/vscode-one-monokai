@@ -17,6 +17,11 @@
                 "label": "One Monokai",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneMonokai.tmTheme"
+            },
+            {
+                "label": "One Monokai++",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneMonokai++.tmTheme"
             }
         ]
     },
